@@ -1,4 +1,4 @@
-# Let's Play a word ladder game!
+# Let's Play a Word Ladder game!
 
 - In this game, you will input two five letter words and the program will transform your first word into the second word by changing it into another word.
 
